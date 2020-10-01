@@ -3,7 +3,7 @@ Neste repositório estará disponível alguns projetos desenvolvidos por mim lig
 
 
 
-  <img src = "banner.png">
+  <img src = "https://github.com/carlosfab/template_portfolio/blob/master/banner.png">
 </p>
 
 # Gabriel Bittencourt 
