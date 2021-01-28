@@ -15,10 +15,5 @@ Tenho 21 anos, sou apaixonado por tecnologia e estou em constante envolvimento c
 * [LinkedIn] (https://www.linkedin.com/in/gabriel-bittencourt-aa7313150/)
 
 
-* ** 
-* ** 
-* ** 
-* ** 
-* ** 
 
----
+** Projeto: Game Of Thones;  https://colab.research.google.com/drive/10MPMs1ujALHuJQmgdMn-59a1zoGQUCFI?usp=sharing
