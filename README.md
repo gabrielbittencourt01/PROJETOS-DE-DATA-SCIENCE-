@@ -7,9 +7,9 @@ Neste repositório estará disponível alguns projetos desenvolvidos por mim de 
 </p>
 
 # Gabriel Bittencourt 
-<sub> ** Estudante de Big Data e Inteligência Analitíca.
+<sub> ** Formado em Big Data e Inteligência Analitíca | Business Intelligence Analyst Pleno - Accenture
   
-Tenho 21 anos, sou apaixonado por tecnologia e estou em constante envolvimento com ela ;)
+Tenho 23 anos, sou apaixonado por tecnologia e estou em constante envolvimento com ela ;)
 
 ** Links: **
 * [LinkedIn] (https://www.linkedin.com/in/gabriel-bittencourt-aa7313150/)
