@@ -1,5 +1,6 @@
-# PROJETOS-DE-DATA-SCIENCE-
-Neste repositório estará disponível alguns projetos desenvolvidos por mim de ciencia de dados e analises :) 
+# Portfólio | Gabriel Tenorio Bittencourt
+
+Neste repositório está disponível alguns dos meus projetos pessoais desenvolvidos: 
 
 
 
@@ -7,14 +8,15 @@ Neste repositório estará disponível alguns projetos desenvolvidos por mim de 
 </p>
 
 # Gabriel Bittencourt 
-<sub> ** Formado em Big Data e Inteligência Analitíca | Business Intelligence Analyst Pleno - Accenture
+<sub> Formado em Big Data e Inteligência Analitíca | Business Intelligence Analyst Pleno - Accenture
   
-Tenho 23 anos, sou apaixonado por tecnologia e estou em constante envolvimento com ela ;)
 
-** Links: **
-* [LinkedIn] (https://www.linkedin.com/in/gabriel-bittencourt-aa7313150/)
+Links Úteis:
+
+[LinkedIn] (https://www.linkedin.com/in/gabriel-bittencourt-aa7313150/)
 
 
-
-** Projeto: Game Of Thones;  https://colab.research.google.com/drive/10MPMs1ujALHuJQmgdMn-59a1zoGQUCFI?usp=sharing
+Projetos: 
+  - Análise de dados da série Game Of Thones - https://colab.research.google.com/drive/10MPMs1ujALHuJQmgdMn-59a1zoGQUCFI?usp=sharing ; 
+  
 
