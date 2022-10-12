@@ -1,8 +1,6 @@
 # Portfólio | Gabriel Tenorio Bittencourt
 
-Neste repositório está disponível alguns dos meus projetos pessoais desenvolvidos: 
-
-
+Neste repositório está disponível alguns dos meus projetos desenvolvidos.
 
   <img src = "https://github.com/carlosfab/template_portfolio/blob/master/banner.png">
 </p>
